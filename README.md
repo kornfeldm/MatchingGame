@@ -22,7 +22,7 @@ MatchingGame is simple iOS/iPadOS game built using Xcode 11.4 for a mobile appli
     * The user will always have at least 20 turns regardless of the current level
   * When the game is lost, the user reverts to level one and is once again offered 100 turns
 * Cheating
-  * Cheating is not recommended the way to play but if the user so chooses, answers can be revealed by shaking the device
+  * Cheating is not recommended the way to play but if the user chooses, answers can be revealed by shaking the device
   
 ### How can I try editing the code?
 This project is built using Xcode. Xcode only runs on Mac computers but can be downloaded for free from the Mac App Store using a compatible machine. To edit the code, simply download this project and open "MatchingGame.xcodeproj" in Xcode. This will load in the project. When testing the code, an iPad or iPhone simulator will work, but physical devices offer a better experience.
