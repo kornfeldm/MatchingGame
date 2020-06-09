@@ -3,6 +3,8 @@ A simple card matching game designed for iPhones running iOS 13 and iPads runnin
 
 ### What is MatchingGame?
 
+![Game_Screenshot](Screenshots/Screenshot.png)
+
 MatchingGame is simple iOS/iPadOS game built using Xcode 11.4 for a mobile application development course (CSC184). It serves as an example Xcode project as well as a demonstration of the Model View Controller (MVC) architecture pattern. 
 
 ### Features
