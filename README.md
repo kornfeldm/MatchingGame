@@ -1,5 +1,5 @@
 # MatchingGame
-A simple card matching game designed for iPhones running iOS 13 and iPads running iPadOS 13
+A simple card matching game designed for iPhone/iPod devices running iOS 13 and iPad devices running iPadOS 13
 
 ### What is MatchingGame?
 
@@ -43,3 +43,8 @@ MatchingGame was built using Xcode 11.4 and the following sources were reference
 * Detect shaking of the device
   * https://stackoverflow.com/questions/33503531/detect-shake-gesture-ios-swift
 * Class notes and assignments from CSC184
+
+### References
+
+* The icon for this application was derived from: https://upload.wikimedia.org/wikipedia/commons/3/3a/Magnifying_glass_01.svg
+* Additional references for specific parts of the code can be found at the top of ViewController.swift (MatchingGame/MatchingGame/MatchingGame/ViewController.swift)
